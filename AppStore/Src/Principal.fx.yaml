@@ -25,3 +25,14 @@ Principal As screen:
         Y: =536
         ZIndex: =3
 
+    Label1 As label:
+        Color: =RGBA(116, 116, 116, 1)
+        FontWeight: =FontWeight.Bold
+        Height: =60
+        Size: =30
+        Text: ="Tecno Store"
+        Width: =257
+        X: =548
+        Y: =182
+        ZIndex: =4
+
