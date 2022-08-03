@@ -24,7 +24,7 @@ Ordenes As screen:
         ZIndex: =3
 
     Button3_2 As button:
-        OnSelect: =Navigate(VerOrdenes);ResetForm(FormO_1);EditForm(FormO_1)
+        OnSelect: =Navigate(VerOrdenes);EditForm(FormO_1);ResetForm(FormO_1)
         Text: ="Ver Órdenes"
         Width: =140
         X: =893

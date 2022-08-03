@@ -795,7 +795,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Correo fabricante_Columna1_1",
-      "ParentIndex": 7,
+      "ParentIndex": 3,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -9632,7 +9632,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Fecha de lanzamiento_Columna1_1",
-      "ParentIndex": 6,
+      "ParentIndex": 2,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -12028,7 +12028,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "País de fabricación_Columna1_1",
-      "ParentIndex": 2,
+      "ParentIndex": 4,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -12282,7 +12282,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Precio_Columna1_1",
-      "ParentIndex": 3,
+      "ParentIndex": 5,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -16262,7 +16262,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Unidades disponibles_Columna1_1",
-      "ParentIndex": 4,
+      "ParentIndex": 6,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -16503,7 +16503,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Unidades vendidas_Columna1_1",
-      "ParentIndex": 5,
+      "ParentIndex": 7,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
