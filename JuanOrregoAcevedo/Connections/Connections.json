@@ -1,0 +1,58 @@
+{
+  "2abfbe5d-6486-422c-9a30-d69f4c986a48": {
+    "connectionParameters": {
+      "sku": "Enterprise"
+    },
+    "connectionRef": {
+      "apiTier": "Standard",
+      "displayName": "SharePoint",
+      "iconUri": "https://connectoricons-prod.azureedge.net/releases/v1.0.1588/1.0.1588.2938/sharepointonline/icon.png",
+      "id": "/providers/microsoft.powerapps/apis/shared_sharepointonline",
+      "parameterHints": {},
+      "parameterHintsV2": {}
+    },
+    "datasets": {
+      "https://ccolabs.sharepoint.com/sites/JuanOrregoAcevedoApp": {
+        "dataSources": {
+          "Ordenes_1": {
+            "tableName": "70c5af56-e7e1-4a48-b013-5c6c7275fd2a"
+          }
+        }
+      }
+    },
+    "dataSources": [
+      "Ordenes_1"
+    ],
+    "dependencies": {},
+    "dependents": [],
+    "id": "2abfbe5d-6486-422c-9a30-d69f4c986a48"
+  },
+  "4afe779e-a061-4f1f-b092-ae1db30649a2": {
+    "connectionParameters": {
+      "sku": "Enterprise"
+    },
+    "connectionRef": {
+      "apiTier": "Standard",
+      "displayName": "SharePoint",
+      "iconUri": "https://connectoricons-prod.azureedge.net/releases/v1.0.1588/1.0.1588.2938/sharepointonline/icon.png",
+      "id": "/providers/microsoft.powerapps/apis/shared_sharepointonline",
+      "parameterHints": {},
+      "parameterHintsV2": {}
+    },
+    "datasets": {
+      "https://ccolabs.sharepoint.com/sites/JuanOrregoAcevedoApp": {
+        "dataSources": {
+          "Producto": {
+            "tableName": "3d522f3a-e060-4397-9e57-15b1594fa176"
+          }
+        }
+      }
+    },
+    "dataSources": [
+      "Producto"
+    ],
+    "dependencies": {},
+    "dependents": [],
+    "id": "4afe779e-a061-4f1f-b092-ae1db30649a2"
+  }
+}
